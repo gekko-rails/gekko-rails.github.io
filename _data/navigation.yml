@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
+- title: Обо мне
   url: /about/
 
-- title: Articles
+- title: Статьи
   url: /articles/
 
-- title: Blog
+- title: Блог
   url: /blog/
 
 - title: Theme Setup
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Digital Factory
+  url: http://factory9.ru
