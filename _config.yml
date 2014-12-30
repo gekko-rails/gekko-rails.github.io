@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Цифровая Фабрика
-locale: en_US
+locale: ru_RU
 description: Блог менеджера проектов
 logo: site-logo.png
 search: true
