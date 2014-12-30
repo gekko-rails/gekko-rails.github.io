@@ -8,13 +8,10 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
-=======
-_site
-.DS_Store
+.sass-cache
+
 *.sublime-project
 *.sublime-workspace
+
 codekit-config.json
 node_modules
-=======
-
-.sass-cache
